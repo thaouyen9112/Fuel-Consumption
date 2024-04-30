@@ -1,6 +1,6 @@
 # :car: Car Fuel Consumption Analyzer App :bar_chart:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediction-stock-market.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fuel-consumption-analysis.streamlit.app/)
 
 ## :dart: About the App
 The Car Fuel Consumption Analyzer is an app designed to help car buyers make informed decisions about their next vehicle purchase. :thinking_face::bulb: The app provides an in-depth analysis of fuel consumption data and allows users to compare different car types, offering clear insights into fuel efficiency and carbon emissions. :herb::earth_africa:
