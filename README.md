@@ -21,4 +21,3 @@ To continuously improve the app and enhance user experience, we plan to undertak
 - :alarm_clock: Real-time Updates: Integrate real-time data updates to provide users with the latest information on fuel consumption and CO2 emissions for the most recent car models.
 - :iphone: Mobile Application: Develop a mobile version of the app to make it more accessible and convenient for users on the go.
 - :speech_balloon: User Feedback and Suggestions: Collect user feedback and suggestions to identify areas for improvement and new features that users would find valuable.
-Thank you for using the Car Fuel Consumption Analyzer! :pray: We hope this app helps you find the perfect vehicle that meets your needs and preferences. :car::dash: If you have any questions or feedback, please feel free to open an issue on GitHub. :bulb::octopus:
