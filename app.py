@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 import matplotlib.pyplot as plt
 import altair as alt
 
@@ -62,22 +61,7 @@ with tab1:
    # Display the scatter plot in Streamlit
    st.altair_chart(scatter_chart, use_container_width=True)
 
-    #Create a bar chart of fuel consumption by vehicle class
-#    bar_chart = alt.Chart(df).mark_bar().encode(
-#     x='VEHICLE CLASS',  # Use the column name for the x-axis
-#     y='FUEL CONSUMPTION',  # Use the column name for the y-axis
-#     tooltip=[
-#         alt.Tooltip('VEHICLE CLASS', title='Vehicle Class'),
-#         alt.Tooltip('FUEL CONSUMPTION', title='Mean', format='.2f')
-#     ]
-#     ).properties(
-#     title='Fuel Consumption by Vehicle Class'
-#     )
-#    # Display the chart in Streamlit
-#    st.altair_chart(bar_chart, use_container_width=True)
 
-#    # Group the data by vehicle class and car make, and calculate the mean fuel consumption
-#    grouped_data = df.groupby(['VEHICLE CLASS', 'MAKE'])['FUEL CONSUMPTION'].mean().reset_index()
 
 
 
